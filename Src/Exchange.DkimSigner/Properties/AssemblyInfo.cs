@@ -14,14 +14,14 @@ using System.Runtime.InteropServices;
 #else
 [assembly: AssemblyConfiguration("RELEASE")]
 #endif
-[assembly: AssemblyCompany("github.com/Pro")]
+[assembly: AssemblyCompany("github.com/JohnBWilloughby")]
 [assembly: AssemblyProduct("Exchange DKIM")]
 [assembly: AssemblyCopyright("Gnu LGPL 3 by Stefan Profanter © 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
 [assembly: Guid("FA0D7628-702A-445B-9C78-887874B212BA")]
-[assembly: AssemblyVersion("3.1.0")]
+[assembly: AssemblyVersion("3.1.1")]
 [assembly: CLSCompliant(false)]
 [assembly: NeutralResourcesLanguage("en-US")]
-[assembly: AssemblyFileVersion("3.1.0")]
+[assembly: AssemblyFileVersion("3.1.1")]

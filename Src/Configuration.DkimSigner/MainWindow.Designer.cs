@@ -262,6 +262,7 @@
             this.txtDkimSignerInstalled.Size = new System.Drawing.Size(138, 20);
             this.txtDkimSignerInstalled.TabIndex = 1;
             this.txtDkimSignerInstalled.Text = "Loading...";
+            this.txtDkimSignerInstalled.TextChanged += new System.EventHandler(this.txtDkimSignerInstalled_TextChanged);
             // 
             // lbDkimSignerInstalled
             // 

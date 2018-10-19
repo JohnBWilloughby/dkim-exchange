@@ -5,6 +5,8 @@
 
 
 ## Releases
+* 17.10.2018 [3.1.1]: 
+	New: Added support for Exchange Exchange 2013 CU21
 * 31.05.2018 [3.1.0]:  
 	New: Added support for Exchange Exchange 2013 CU20  
 	New: Added support for Exchange 2016 CU9  

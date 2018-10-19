@@ -1246,5 +1246,10 @@ namespace Configuration.DkimSigner
                     lbxDomains.SelectedIndex = 0;
             }
         }
+
+        private void txtDkimSignerInstalled_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

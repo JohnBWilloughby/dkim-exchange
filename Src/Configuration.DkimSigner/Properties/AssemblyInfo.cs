@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Exchange DKIM Signer Configuration")]
 [assembly: AssemblyDescription("Configuration tool for Exchange DKIM Signer")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("github.com/pro")]
+[assembly: AssemblyCompany("github.com/JohnBWilloughby")]
 [assembly: AssemblyProduct("Exchange DKIM Signer Configuration")]
 [assembly: AssemblyCopyright("Gnu LGPL 3 by Stefan Profanter © 2018")]
 [assembly: AssemblyTrademark("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("3.1.0")]
-[assembly: AssemblyFileVersion("3.1.0")]
+[assembly: AssemblyVersion("3.1.1")]
+[assembly: AssemblyFileVersion("3.1.1")]
